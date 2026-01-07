@@ -236,14 +236,7 @@ The Risk Calculator implicitly provides counterfactual analysis:
    - Framingham Heart Study: https://www.framinghamheartstudy.org/
    - SCORE Risk Calculator: https://www.euro.who.int/en/health-topics/disease-prevention/cardiovascular-disease
 
-## 🎓 Educational Value
 
-This project is ideal for:
-- **Students**: Learning end-to-end ML pipeline
-- **Portfolio Building**: Demonstrates real-world ML skills
-- **Fairness Practitioners**: Case study in bias detection and measurement
-- **Clinicians**: Understanding AI/ML in healthcare
-- **Hiring Managers**: Assessing ML engineering capabilities
 
 ## 📄 License
 
