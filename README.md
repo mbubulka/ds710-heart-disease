@@ -102,10 +102,6 @@ ds710-heart-disease/
 └── .gitignore               # Git ignore rules
 ```
 
-## 🌐 Live Demo
-
-**View the dashboard**: [Interactive Dashboard Link]
-(Available after Netlify deployment)
 
 ## 📈 What Makes This Project Special
 
