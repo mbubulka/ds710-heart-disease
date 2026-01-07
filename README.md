@@ -157,28 +157,6 @@ ds710-heart-disease/
 - **Imputation Load Analysis**: Performance vs. amount of missing data
 - **Methodology**: Accuracy/Recall/AUC computed per subgroup
 
-## 🚀 Deployment Options
-
-### **Option 1: Netlify (Recommended)** ⭐⭐⭐⭐⭐
-- **Cost**: Free tier (generous limits)
-- **Setup**: 5 minutes
-- **CI/CD**: Automatic on git push
-- **Custom Domain**: Supported
-- **Best For**: Quick, zero-maintenance hosting
-
-### **Option 2: GitHub Pages** ⭐⭐⭐⭐⭐
-- **Cost**: Free
-- **Setup**: 2 minutes
-- **CI/CD**: Automatic on git push
-- **Custom Domain**: Supported
-- **Best For**: Open-source portfolio projects
-
-### **Option 3: Azure Container Instances** (Current) ⭐⭐⭐
-- **Cost**: $1.87/day (all containers), $0.31/day (dashboard only)
-- **Setup**: 15 minutes (Bicep/CLI)
-- **Maintenance**: Manual restart if needed
-- **Best For**: Full pipeline reproduction/research
-
 See **DEPLOYMENT.md** for step-by-step instructions for each option.
 
 ## 💻 Local Development
